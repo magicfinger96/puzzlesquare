@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PuzzleSquare</string>
+    <string name="goal_text">Toutes les pieces doivent rentrer dans la grille, pour qu\'elles n\'en forment plus qu\'une ! Attention, vous ne pouvez pas les retourner.</string>
+</resources>
